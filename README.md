@@ -1,0 +1,1 @@
+# arvore_de_cobertura_minima
